@@ -17,7 +17,7 @@ O projeto contém uma interface de usuário simplificada e uma lógica Java para
      - **Dois campos de entrada** (`EditText`) para o código e valor do produto.
      - **Quatro botões** para cada operação CRUD: `Cadastrar`, `Buscar`, `Alterar` e `Deletar`.
    - A interface é construída usando o `ConstraintLayout`, o que facilita a organização visual, com uma aparência responsiva.
-
+---
 ### Funcionalidades CRUD
 
 #### 1. Cadastro de Produto
